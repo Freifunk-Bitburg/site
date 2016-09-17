@@ -2,6 +2,10 @@ GLUON_SITE_PACKAGES := \
 	gluon-mesh-batman-adv-15 \
 	gluon-respondd \
 	gluon-autoupdater \
+	gluon-authorized-keys \
+	gluon-luci-theme \
+	gluon-neighbour-info \
+	gluon-node-info \
 	gluon-config-mode-autoupdater \
 	gluon-config-mode-contact-info \
 	gluon-config-mode-core \
